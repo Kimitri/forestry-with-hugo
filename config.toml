@@ -1,0 +1,15 @@
+baseURL = "https://example.org/"
+languageCode = "fi-fi"
+theme = "paper"
+title = "Forestry + Hugo"
+summaryLength = 20
+
+[[menu.main]]
+name = "Etusivu"
+url = "/"
+weight = 1
+
+[[menu.main]]
+name = "Blogi"
+url = "/blogi/"
+weight = 10

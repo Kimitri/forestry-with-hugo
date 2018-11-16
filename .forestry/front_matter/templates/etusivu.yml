@@ -1,0 +1,13 @@
+---
+label: Etusivu
+hide_body: true
+is_partial: false
+fields:
+- type: text
+  label: Iso otsikko
+  name: title_big
+- type: file
+  label: Iso kuva
+  name: image_big
+pages:
+- content/etusivu.md
