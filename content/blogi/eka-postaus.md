@@ -27,7 +27,6 @@ Sisällön sekaan voidaan upottaa kuvia mediakirjastosta:
 
 {{< vimeo 195379908 >}}
 
-
 ...tai YouTubesta:
 
 {{< youtube OQSNhk5ICTI >}}
