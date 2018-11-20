@@ -9,5 +9,10 @@ fields:
 - type: file
   label: Iso kuva
   name: image_big
+- type: blocks
+  template_types:
+  - lohkotesti
+  label: Nostot
+  name: nostot
 pages:
 - content/etusivu.md
