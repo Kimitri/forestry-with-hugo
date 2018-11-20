@@ -1,0 +1,21 @@
+---
+label: Lohkotesti
+hide_body: false
+is_partial: true
+display_field: otsikko
+fields:
+- type: text
+  label: Otsikko
+  name: otsikko
+  config:
+    required: true
+- type: textarea
+  name: intro
+  label: Intro
+  config:
+    wysiwyg: true
+    schema:
+      format: markdown
+- type: image_gallery
+  name: kuvat
+  label: Kuvat
