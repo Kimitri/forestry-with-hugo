@@ -39,3 +39,10 @@ Sisällön sekaan voidaan upottaa kuvia mediakirjastosta:
 Tämä on aika hienoa.
 
 [Pohjapiirros.pdf](/uploads/KOR35_1. KERROS_20170526.pdf "KOR35_1. KERROS_20170526.pdf")
+
+<table>
+  <tr>
+  	<td>Joo</td>
+    <td>Jaa</td>
+  </tr>
+</table>
