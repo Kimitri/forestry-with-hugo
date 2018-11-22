@@ -40,8 +40,8 @@ Tämä on aika hienoa.
 
 [Pohjapiirros.pdf](/uploads/KOR35_1. KERROS_20170526.pdf "KOR35_1. KERROS_20170526.pdf")
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Diipadaapa | Skuppiduu | asdasd | thrthrth | rthtrh |
+|------------|:---------:|-------:|----------|--------|
+| asd        |    sad    |    123 |          |        |
+| asd        |    sad    | 213123 |          |        |
+| asd        |    asd    |    123 |          |        |
