@@ -32,3 +32,5 @@ Sisällön sekaan voidaan upottaa kuvia mediakirjastosta:
 {{< youtube OQSNhk5ICTI >}}
 
 Tämä on aika hienoa.
+
+{{< youtube vjF9GgrY9c0 >}}
