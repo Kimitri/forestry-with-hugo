@@ -4,6 +4,12 @@ hide_body: true
 is_partial: false
 fields:
 - type: datetime
+  name: publishDate
+  label: Published
+  config:
+    date_format: DD.MM.YYYY
+    time_format: HH.mm
+- type: datetime
   name: expiryDate
   label: Expires
   config:
@@ -20,11 +26,5 @@ fields:
   - lohkotesti
   label: Nostot
   name: nostot
-- type: datetime
-  name: publishDate
-  label: Published
-  config:
-    date_format: DD.MM.YYYY
-    time_format: HH.mm
 pages:
 - content/etusivu.md
