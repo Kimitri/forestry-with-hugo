@@ -14,5 +14,11 @@ fields:
   - lohkotesti
   label: Nostot
   name: nostot
+- type: datetime
+  name: expiryDate
+  label: Expires
+  config:
+    date_format: DD.MM.YYYY
+    time_format: HH.mm
 pages:
 - content/etusivu.md
