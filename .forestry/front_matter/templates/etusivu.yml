@@ -15,4 +15,5 @@ fields:
   label: Nostot
   name: nostot
 pages:
+- content/testisivu.md
 - content/etusivu.md
