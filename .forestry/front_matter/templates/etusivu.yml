@@ -3,6 +3,12 @@ label: Etusivu
 hide_body: true
 is_partial: false
 fields:
+- type: datetime
+  name: expiryDate
+  label: Expires
+  config:
+    date_format: DD.MM.YYYY
+    time_format: HH.mm
 - type: text
   label: Iso otsikko
   name: title_big
@@ -15,8 +21,8 @@ fields:
   label: Nostot
   name: nostot
 - type: datetime
-  name: expiryDate
-  label: Expires
+  name: publishDate
+  label: Published
   config:
     date_format: DD.MM.YYYY
     time_format: HH.mm
