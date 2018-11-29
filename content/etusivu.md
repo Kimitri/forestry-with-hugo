@@ -4,7 +4,7 @@ expiryDate = "2018-12-28T10:15:00+00:00"
 image_big = "/uploads/cameron-venti-1126957-unsplash.jpg"
 publishDate = "2018-11-28T12:15:00+02:00"
 title = "Tiedote"
-title_big = "Forestry + Hugo = ❤️"
+title_big = "Forestry + Hugo = ❤️ JEE!"
 [[nostot]]
 intro = "Nostotekstiä voi laittaa tähän. Tekstiä voi _muotoilla_."
 kuvat = ["/uploads/cameron-venti-1126957-unsplash.jpg", "/uploads/jason-leung-537622-unsplash.jpg"]
