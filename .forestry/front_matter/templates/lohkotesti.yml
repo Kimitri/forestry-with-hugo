@@ -16,6 +16,11 @@ fields:
     wysiwyg: true
     schema:
       format: markdown
+- type: color
+  config:
+    color_format: Hex
+  label: Nostoväri
+  name: color
 - type: image_gallery
   name: kuvat
   label: Kuvat
