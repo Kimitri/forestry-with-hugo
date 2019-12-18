@@ -24,10 +24,6 @@ Sisällön sekaan voidaan upottaa kuvia mediakirjastosta:
 
 {{< instagram BqOJVi6gFQm >}}
 
-...tai Twitteristä:
-
-{{< tweet 1062888433180241920 >}}
-
 ...tai Vimeosta:
 
 {{< vimeo 195379908 >}}
