@@ -1,4 +1,3 @@
-baseURL = "https://example.org/"
 languageCode = "fi-fi"
 summaryLength = 20
 theme = "paper"
