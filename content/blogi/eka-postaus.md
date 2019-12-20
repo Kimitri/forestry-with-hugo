@@ -2,11 +2,13 @@
 title: Ensimmäinen blogikirjoitus
 date: 2018-11-16 10:00:29 +0000
 menu:
-  main:
-    name: Kirjoitus
-    weight: 1
-    parent: Blogi
----Tämä on ensimmäinen blogikirjoitus Forestryyn linkitetyssä Hugo-projektissa. Projekti asustelee Githubissa, mutta se voisi olla myös esim. Bitbucketissa.
+main:
+name: Kirjoitus
+weight: 1
+parent: Blogi
+---
+
+Tämä on ensimmäinen blogikirjoitus Forestryyn linkitetyssä Hugo-projektissa. Projekti asustelee Githubissa, mutta se voisi olla myös esim. Bitbucketissa.
 
 Koko sivusto on aina synkronoituna Git-repositorioon, joten kaikki sisältö on aina versiohallittua.
 
