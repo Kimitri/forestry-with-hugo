@@ -6,9 +6,7 @@ menu:
     name: Kirjoitus
     weight: 1
     parent: Blogi
-
----
-Tämä on ensimmäinen blogikirjoitus Forestryyn linkitetyssä Hugo-projektissa. Projekti asustelee Githubissa, mutta se voisi olla myös esim. Bitbucketissa.
+---Tämä on ensimmäinen blogikirjoitus Forestryyn linkitetyssä Hugo-projektissa. Projekti asustelee Githubissa, mutta se voisi olla myös esim. Bitbucketissa.
 
 Koko sivusto on aina synkronoituna Git-repositorioon, joten kaikki sisältö on aina versiohallittua.
 
@@ -34,10 +32,8 @@ Sisällön sekaan voidaan upottaa kuvia mediakirjastosta:
 
 Tämä on aika hienoa.
 
-[Pohjapiirros.pdf](/uploads/KOR35_1. KERROS_20170526.pdf "KOR35_1. KERROS_20170526.pdf")
-
 | Diipadaapa | Skuppiduu | asdasd | thrthrth | rthtrh |
-|------------|:---------:|-------:|----------|--------|
+| ---------- | :-------: | -----: | -------- | ------ |
 | asd        |    sad    |    123 |          |        |
 | asd        |    sad    | 213123 |          |        |
 | asd        |    asd    |    123 |          |        |
