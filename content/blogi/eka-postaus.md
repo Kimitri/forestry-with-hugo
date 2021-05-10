@@ -20,10 +20,6 @@ Sisällön sekaan voidaan upottaa kuvia mediakirjastosta:
 
 ![Laiva kulkee ihanasti vasemmalta oikealle](/uploads/cameron-venti-1126957-unsplash.jpg "Photo from Unsplash.com")
 
-...tai Instasta:
-
-{{< instagram BqOJVi6gFQm >}}
-
 ...tai Vimeosta:
 
 {{< vimeo 195379908 >}}
