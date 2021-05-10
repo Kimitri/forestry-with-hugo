@@ -1,4 +1,4 @@
-baseURL = "https://forestry-with-hugo.onrender.com/"
+baseURL = "https://forestry-with-hugo.pages.dev/"
 languageCode = "fi-fi"
 summaryLength = 20
 theme = "paper"
